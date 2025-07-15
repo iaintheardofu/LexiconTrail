@@ -303,7 +303,6 @@ const result = await lt.query('Explain quantum computing');
 ## 📬 Contact
 
 - **Email**: m_pendleton@theaicowboys.com
-- **Phone**: 210-287-2024
 - **LinkedIn**: [Michael Pendleton](https://www.linkedin.com/in/michael-j-pendleton/)
 - **Company**: [The AI Cowboys](https://www.linkedin.com/company/the-ai-cowboys/)
 
